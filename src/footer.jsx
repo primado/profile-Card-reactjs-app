@@ -1,7 +1,7 @@
 import React from "react"
 import Facebook from "./assets/Facebook Icon.png"
 import GitHub from "./assets/GitHub Icon.png"
-import Instagram from "./assets/instagram Icon.png"
+import Instagram from "./assets/IG-icon.png"
 import Twitter from "./assets/Twitter Icon.png"
 import "./css/style.css"
 

@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 3em 0;
+    
+}
+
+.container {
+    background-color: #1A1B21;
+    width: 327px;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    
+    
+}
+
+.my-photo {
+    max-width: 100%;
+}
+
+.content-info {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.my-info {
+    text-align: center;
+
+}
+
+.my-info .my-name {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 1em 0 .1em 0;
+}
+
+.my-info .job-title {
+    font-size: 12.80px;
+    font-weight: 200;
+    color: #F3BF99;
+}
+
+.my-info .my-website {
+    color: #F5F5F5;
+    font-size: 10.24px;
+    text-decoration: none;
+    display: block;
+    padding: .5em 0;
+
+}
+
+.my-info .my-website:hover {
+    color: #F3BF99;
+    transition: 0.5s;
+    
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5em 0;
+}
+
+.contact-info .email {
+    background-color: #ffffff;
+    text-decoration: none;
+    color: #374151;
+    padding: .7em 2em;
+    margin: 0 1em;
+    border-radius: .4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    border-radius: .5em;
+    
+}
+
+.contact-info .email:hover {
+    opacity: .7;
+    color: #374151;
+    transition: 0.4s;
+}
+
+.contact-info .mail-logo {
+    width: 1em;
+    margin: .33em;
+
+}
+
+.contact-info .linkedIn {
+    background-color: #5093E2;
+    padding: .7em 2em;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    border-radius: .4em;
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.contact-info .linkedIn:hover{
+    opacity: .9;
+    transition: 0.4s;
+}
+
+.contact-info .linkedin-logo {
+    width: 1em;
+    margin: .33em;
+}
+
+
+/***** About *****/
+.about-main {
+    padding: .5em 2em;
+    width: 327px;
+
+}
+.about-main h1 {
+    font-size: 16px;
+    font-weight: 700;
+    
+}
+
+.about-content {
+    line-height: 1.5em;
+    font-size: 11.24px;
+    color: #DCDCDC;
+}
+
+
+
+/**** Footer ****/
+footer {
+    background-color: #161619;
+}
+
+.social-icon-flex {
+    width: 327px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}
+
+.social-icon-flex img {
+    margin: 0 .7em;
+}

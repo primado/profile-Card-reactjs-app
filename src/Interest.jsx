@@ -9,8 +9,8 @@ export default function Interest() {
                 <div className="about-main">
                     <h1>Interest</h1>
                     <div className="about-content">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo delectus dolor, 
-                        facilis modi hic deleniti. Placeat veritatis laboriosam tenetur blanditiis!
+                        EasyWorship6 Presenter, Poet and Spoken Word Artist. Currently my new 
+                        interest is sitting behind screens and working to make things happen. 
                     </div>
                 </div>
             </div>

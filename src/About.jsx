@@ -9,8 +9,9 @@ export default function About() {
                 <div className="about-main">
                     <h1>About</h1>
                     <div className="about-content">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo delectus dolor, 
-                        facilis modi hic deleniti. Placeat veritatis laboriosam tenetur blanditiis!
+                        I'm a Jr. Software Developer with keen interest in Backend Development.
+                        But I'm currently learning to build my frontend skills. 
+                        I also host Tech events as a Student Ambassador @Microsoft
                     </div>
                 </div>
             </div>
